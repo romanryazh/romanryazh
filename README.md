@@ -40,11 +40,11 @@
 
 <p align="center">
   <a href="https://github.com/romanryazh/Alchemy" target="_blank" rel="noopener">
-    <img alt="Alchemy" src="https://img.shields.io/badge/Project%201-00ffe7?style=for-the-badge&logo=github&logoColor=white&color=ff52d2&labelColor=ff52d2" />
+    <img src="https://img.shields.io/badge/Project%201-00ffe7?style=for-the-badge&logo=github&logoColor=white&color=ff52d2&labelColor=ff52d2" alt="Alchemy"/>
   </a>
-  <a href="https://github.com/yourusername/project2" target="_blank" rel="noopener">
+<!--   <a href="https://github.com/yourusername/project2" target="_blank" rel="noopener">
     <img alt="Project 2" src="https://img.shields.io/badge/Project%203-ff6ac1?style=for-the-badge&logo=github&logoColor=white&color=371db3&labelColor=371db3" />
-  </a>
+  </a> -->
 </p>
 
 <h3 align="center" style="color:#7ef9ff; font-weight:600; text-shadow: 0 0 5px #7ef9ff;">
