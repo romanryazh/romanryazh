@@ -23,13 +23,13 @@
 </h3>
 
 <p align="center">
-  <a href="https://t.me/yourtelegramhandle" target="_blank" rel="noopener">
+  <a href="https://t.me/RomanRyazh" target="_blank" rel="noopener">
     <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=7ef9ff" alt="Telegram" />
   </a>
-  <a href="https://vk.com/yourvkprofile" target="_blank" rel="noopener">
+  <a href="https://vk.com/roman_ryazhskikh" target="_blank" rel="noopener">
     <img align="center" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white&color=5665f9" alt="VK"/>
   </a>
-  <a href="https://discord.gg/265777256570290177" target="_blank" rel="noopener">
+  <a href="https://discordapp.com/users/265777256570290177" target="_blank" rel="noopener">
     <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=ae5be5" alt="Discord"/>
   </a>
 </p>
@@ -39,8 +39,8 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername/project1" target="_blank" rel="noopener">
-    <img alt="Project 1" src="https://img.shields.io/badge/Project%201-00ffe7?style=for-the-badge&logo=github&logoColor=white&color=ff52d2&labelColor=ff52d2" />
+  <a href="https://github.com/romanryazh/Alchemy" target="_blank" rel="noopener">
+    <img alt="Alchemy" src="https://img.shields.io/badge/Project%201-00ffe7?style=for-the-badge&logo=github&logoColor=white&color=ff52d2&labelColor=ff52d2" />
   </a>
   <a href="https://github.com/yourusername/project2" target="_blank" rel="noopener">
     <img alt="Project 2" src="https://img.shields.io/badge/Project%203-ff6ac1?style=for-the-badge&logo=github&logoColor=white&color=371db3&labelColor=371db3" />
@@ -64,7 +64,7 @@
 
 <h3 align="center">Support:</h3>
 <p align="center">
-  <a href="https://boosty.to/romanryazh" target="_blank" rel="noopener">
+  <a href="https://boosty.to/romanryazh/donate" target="_blank" rel="noopener">
     <img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&color=ffff00" alt="boosty" />
   </a>
 </p>
